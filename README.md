@@ -1,4 +1,4 @@
-# Find_Existing_Words
+# Find Existing Words
 
 This is the small project that I made just for fun back in Spring 2019. This program allows you to enter a sequence of letters, and then analyzes a dictionary and prints the existing words that consist of the entered letters.
 
